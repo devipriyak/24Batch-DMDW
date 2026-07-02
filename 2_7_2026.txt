@@ -1,0 +1,21 @@
+1.Create data in excel worksheet with type .xls/xlsx with 3 features
+and 4 instances of student
+2Create data in excel worksheet with type .csv(comma seperated value) with 3 features
+and 4 instances of student
+3Run python code in Google Colab
+     Open Google Colab
+      Click on File then  New Note Book in Drive
+4.Load student file from local file system to Google Colab and Display content
+        from google.colab import files
+        files.upload()
+        #read content of file 
+        import pandas as pd
+         data= pd.read_csv('student.csv')
+           print(data)
+         #read excel file
+          data=pd.read_excel('Studentdemo.xlsx')
+           print(data)
+5.Download any realtime dataset from existed repositories(kaggle/UCI Machine Learning ) and load in to colab then display
+
+
+   
