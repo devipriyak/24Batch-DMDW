@@ -1,0 +1,20 @@
+1.Write a python program to load and read dataset.(Any real time dataset/or by own)
+2.Write a python programe to create data using dataframe with rollno,age and CGPA fetatures
+3.Write a python program to display central tendency measusres mean,median and mode
+4Write a python program to to dipaly disperency measueres- variance and standard deviation
+5.Write a python program to display five number summary using BOxploat and (IQR,Q1,Q2,Q3,Lower whiskher and Higherwhisker)(for multiple attributes,single attribute)
+6.Write a python program to visulize numerical features distribution using histograms
+7.Write a python program to visulize data using barplots and pie charts
+8.Write a python program to display scatter plots betwee features.
+9.write a pytho program to display similarity metrics.
+--sklearn.metrics
+a) Pearson’s Correlation
+b) Cosine Similarity
+c) Jaccard Similarity
+ d)  Simple Matching Coeeficient
+e) Euclidean Distance
+f) Manhattan Distance
+g)Minkowskidistance
+
+
+
