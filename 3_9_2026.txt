@@ -1,0 +1,10 @@
+1.Python Program to identify Independent and dependent variables and Store it into X and y
+2.Convert categeorical fetures into numerical(Encoding Techniques-Lable Encoder)
+3.Apply Scaling techniques to standrdize values.(
+Min-Max-Scaler,Z-score,standard-caler)
+4.Divide data(X,y) into Xtrain,xtest,ytrain,ytest using
+train_test_split(70
+x_train,y_train,xtest,ytest
+5.Apply merging techniques to combine multiple csv files
+and resolve challenges associated with data(Naming conflicts
+values...)
