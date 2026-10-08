@@ -1,0 +1,29 @@
+Develop web/window based application by considering any realtime dataset then  apply data preprocessing,feautre selcction,models,evaluation then deploy model in web apllication to predict the result.
+
+DataSet:Agriculture/health/stockmarket/finanve/plants.....
+
+Outcomes  Required
+1.Dataset Analysis
+2.Data Preprocessing-
+3. without Feature Selection/Feautre Selction/
+4.data mining models(supervised learning)-----DT,NB,Log.reg,SVM,RF
+5.Compare evaluaton metrics
+6.Deploy best model in web/standalone
+Explainable AI
+GUI-
+Input fields
+
+1.sugar level
+2.bp
+3.
+
+13......
+
+output:
+
+
+
+At end Add Your project suitable to Which type of Sustainable Devlopment Goals
+
+
+
